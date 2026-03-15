@@ -350,6 +350,10 @@ html, body, #root {
 }
 
 .back-to-menu-btn {
+  position: fixed;
+  top: 16px;
+  right: 20px;
+  z-index: 1000;
   padding: 8px 16px;
   font-size: 13px;
   font-weight: 700;

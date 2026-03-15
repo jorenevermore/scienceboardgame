@@ -405,6 +405,10 @@ function App() {
       <div className={!gameStarted ? "app-container blurred" : "app-container"}>
         <h1>🧬 Science Virus Board Game 🧬</h1>
 
+        {gameStarted && (
+          <button onClick={resetGame} className="back-to-menu-btn">🏠 Menu</button>
+        )}
+
         {winner ? (
           <div className="winner-screen">
             <h2>🎉 {winner.name} Wins! 🎉</h2>
@@ -420,12 +424,9 @@ function App() {
                     <h2>Current Turn: {players[currentPlayer].name}</h2>
                   </div>
 
-                  <div className="game-info-right">
-                    {players[currentPlayer].position < FINAL_TILE && (
-                      <Dice rollDice={rollDice} dice={dice} disabled={showQuestion || gameStatus !== "ready" || isAnimating} />
-                    )}
-                    <button onClick={resetGame} className="back-to-menu-btn">🏠 Menu</button>
-                  </div>
+                  {players[currentPlayer].position < FINAL_TILE && (
+                    <Dice rollDice={rollDice} dice={dice} disabled={showQuestion || gameStatus !== "ready" || isAnimating} />
+                  )}
                 </div>
 
                 <Board players={players} />
