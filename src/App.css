@@ -343,6 +343,37 @@ html, body, #root {
   font-family: 'Outfit', sans-serif;
 }
 
+.game-info-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.back-to-menu-btn {
+  padding: 8px 16px;
+  font-size: 13px;
+  font-weight: 700;
+  font-family: 'Outfit', sans-serif;
+  background: rgba(248, 113, 113, 0.1);
+  color: var(--danger);
+  border: 1px solid rgba(248, 113, 113, 0.35);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  white-space: nowrap;
+}
+
+.back-to-menu-btn:hover {
+  background: rgba(248, 113, 113, 0.2);
+  border-color: var(--danger);
+  box-shadow: 0 4px 16px rgba(248, 113, 113, 0.2);
+  transform: translateY(-1px);
+}
+
+.back-to-menu-btn:active {
+  transform: translateY(0);
+}
+
 /* ═══════════════════════════════════════════
    BOARD LAYOUT
 ═══════════════════════════════════════════ */

@@ -384,6 +384,9 @@ function App() {
     setCurrentPlayer(0);
     playerIndexRef.current = 0;
     answerProcessedRef.current = false;
+    virusAttackRef.current = false;
+    landslideRef.current = false;
+    usedQuestionsRef.current = {};
     setDice(null);
     setShowQuestion(false);
     setCurrentQuestion(null);
@@ -417,9 +420,12 @@ function App() {
                     <h2>Current Turn: {players[currentPlayer].name}</h2>
                   </div>
 
-                  {players[currentPlayer].position < FINAL_TILE && (
-                    <Dice rollDice={rollDice} dice={dice} disabled={showQuestion || gameStatus !== "ready" || isAnimating} />
-                  )}
+                  <div className="game-info-right">
+                    {players[currentPlayer].position < FINAL_TILE && (
+                      <Dice rollDice={rollDice} dice={dice} disabled={showQuestion || gameStatus !== "ready" || isAnimating} />
+                    )}
+                    <button onClick={resetGame} className="back-to-menu-btn">🏠 Menu</button>
+                  </div>
                 </div>
 
                 <Board players={players} />
