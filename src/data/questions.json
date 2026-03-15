@@ -1,0 +1,364 @@
+{
+  "multipleChoice": [
+    {
+      "type": "Multiple Choice",
+      "question": "What is anything that takes up space and has mass called?",
+      "options": ["Energy", "Matter", "Light", "Sound"],
+      "correct": "Matter"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Which of these is a solid?",
+      "options": ["Water", "Air", "Rock", "Steam"],
+      "correct": "Rock"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "What happens when ice turns into water?",
+      "options": ["It burns.", "It melts.", "It disappears.", "It freezes more."],
+      "correct": "It melts."
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Which state of matter has a definite shape and a definite volume?",
+      "options": ["Liquid", "Gas", "Solid", "Plasma"],
+      "correct": "Solid"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "What do we call the process when water turns into water vapor?",
+      "options": ["Freezing", "Melting", "Evaporation", "Condensation"],
+      "correct": "Evaporation"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Which of these is NOT matter?",
+      "options": ["Book", "Heat", "Chair", "Water"],
+      "correct": "Heat"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "What is the opposite of melting?",
+      "options": ["Boiling", "Freezing", "Evaporating", "Condensing"],
+      "correct": "Freezing"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "When you boil water, what kind of change is it?",
+      "options": ["Chemical change", "Physical change", "No change", "Energy change"],
+      "correct": "Physical change"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Which of these objects would sink in water?",
+      "options": ["A small wooden block", "An empty plastic bottle", "A rock", "A rubber duck"],
+      "correct": "A rock"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "What tells us how much \"stuff\" is in an object?",
+      "options": ["Volume", "Density", "Mass", "Weight"],
+      "correct": "Mass"
+    }
+  ],
+  "identification": [
+    {
+      "type": "Identification",
+      "question": "What is the general term for substances that have mass and take up space?",
+      "correct": "Matter"
+    },
+    {
+      "type": "Identification",
+      "question": "Name the state of matter where particles are closely packed and vibrate in fixed positions.",
+      "correct": "Solid"
+    },
+    {
+      "type": "Identification",
+      "question": "What is the process called when a liquid changes into a gas below its boiling point?",
+      "correct": "Evaporation"
+    },
+    {
+      "type": "Identification",
+      "question": "Identify the change in which a substance alters its form or appearance but not its chemical composition.",
+      "correct": "Physical change"
+    },
+    {
+      "type": "Identification",
+      "question": "What property describes how much mass is contained in a given volume of a substance?",
+      "correct": "Density"
+    },
+    {
+      "type": "Identification",
+      "question": "Which state of matter has an indefinite shape and an indefinite volume?",
+      "correct": "Gas"
+    },
+    {
+      "type": "Identification",
+      "question": "What is the process where a gas turns back into a liquid?",
+      "correct": "Condensation"
+    },
+    {
+      "type": "Identification",
+      "question": "Name an example of a chemical change that produces fire.",
+      "correct": "Combustion"
+    },
+    {
+      "type": "Identification",
+      "question": "What type of mixture has components that are uniformly distributed and cannot be easily distinguished, like salt dissolved in water?",
+      "correct": "Homogeneous mixture"
+    },
+    {
+      "type": "Identification",
+      "question": "What specific temperature does a solid turn into a liquid?",
+      "correct": "Melting point"
+    }
+  ],
+  "trueOrFalse": [
+    {
+      "type": "True or False",
+      "question": "All forms of energy, such as light and heat, are considered matter.",
+      "correct": false
+    },
+    {
+      "type": "True or False",
+      "question": "When a substance undergoes a chemical change, new substances with different properties are formed.",
+      "correct": true
+    },
+    {
+      "type": "True or False",
+      "question": "Density is an intensive property, meaning it does not depend on the amount of the substance.",
+      "correct": true
+    },
+    {
+      "type": "True or False",
+      "question": "Condensation always results in the formation of a solid directly from a gas.",
+      "correct": false
+    },
+    {
+      "type": "True or False",
+      "question": "The particles in a gas move slower and are more organized than in a liquid.",
+      "correct": false
+    },
+    {
+      "type": "True or False",
+      "question": "Boiling water is an example of a chemical change because steam is produced.",
+      "correct": false
+    },
+    {
+      "type": "True or False",
+      "question": "A physical change is usually reversible, while a chemical change is often irreversible.",
+      "correct": true
+    },
+    {
+      "type": "True or False",
+      "question": "Sublimation is the process where a solid turns directly into a gas without becoming a liquid.",
+      "correct": true
+    },
+    {
+      "type": "True or False",
+      "question": "When sugar dissolves in water, it creates a heterogeneous mixture.",
+      "correct": false
+    },
+    {
+      "type": "True or False",
+      "question": "The mass of an object changes when it undergoes a physical change, like melting.",
+      "correct": false
+    }
+  ],
+  "shortAnswer": [
+    {
+      "type": "Short Answer",
+      "question": "What possesses mass?",
+      "options": ["All matter", "Only liquids", "Just energy", "Pure gases"],
+      "correct": "All matter"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Liquid turning gas?",
+      "options": ["Condensation occurs", "Freezing occurs", "Evaporation occurs", "Melting occurs"],
+      "correct": "Evaporation occurs"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Solid turning liquid?",
+      "options": ["Boiling occurs", "Melting occurs", "Freezing occurs", "Sublimation occurs"],
+      "correct": "Melting occurs"
+    },
+    {
+      "type": "Short Answer",
+      "question": "New substance formed?",
+      "options": ["Physical change", "State change", "Chemical change", "No change"],
+      "correct": "Chemical change"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Heavy for size?",
+      "options": ["Low volume", "High density", "Large mass", "Small weight"],
+      "correct": "High density"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Solid, liquid, gas?",
+      "options": ["Matter types", "Energy forms", "States matter", "Phase changes"],
+      "correct": "States matter"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Gas turns liquid?",
+      "options": ["Evaporation occurs", "Sublimation occurs", "Melting occurs", "Condensation occurs"],
+      "correct": "Condensation occurs"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Wood burning result?",
+      "options": ["Physical change", "State change", "No change", "Chemical change"],
+      "correct": "Chemical change"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Saltwater type?",
+      "options": ["Heterogeneous mixture", "Pure substance", "Homogeneous mixture", "Chemical compound"],
+      "correct": "Homogeneous mixture"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Ice changes to?",
+      "options": ["Water vapor", "Solid rock", "Dense gas", "Liquid water"],
+      "correct": "Liquid water"
+    }
+  ],
+  "diagramLabeling": [
+    {
+      "type": "Diagram Labeling",
+      "question": "What does label 1 most likely represent in the diagram?",
+      "image": "/diagramphoto.jpg",
+      "options": ["Cold water absorbing heat", "Room temperature liquid", "Steam escaping the pot", "Ice melting rapidly"],
+      "correct": "Cold water absorbing heat"
+    },
+    {
+      "type": "Diagram Labeling",
+      "question": "The arrow labeled 2 shows energy transfer from:",
+      "image": "/diagramphoto.jpg",
+      "options": ["Fire to pot", "Ice to water glass", "Water to ice", "Pot to fire"],
+      "correct": "Ice to water glass"
+    },
+    {
+      "type": "Diagram Labeling",
+      "question": "Label 3 points to the:",
+      "image": "/diagramphoto.jpg",
+      "options": ["Source of external heat", "Bottom of the pot", "Surface of the water", "Ice cube cluster"],
+      "correct": "Bottom of the pot"
+    },
+    {
+      "type": "Diagram Labeling",
+      "question": "Which process is illustrated by arrow 4?",
+      "image": "/diagramphoto.jpg",
+      "options": ["Conduction from fire to pot", "Evaporation from water", "Convection in air", "Radiation to ice"],
+      "correct": "Conduction from fire to pot"
+    },
+    {
+      "type": "Diagram Labeling",
+      "question": "The fire under the pot (near label 6) primarily transfers heat by:",
+      "image": "/diagramphoto.jpg",
+      "options": ["Conduction", "Convection", "Radiation", "Insulation"],
+      "correct": "Conduction"
+    },
+    {
+      "type": "Diagram Labeling",
+      "question": "Arrow 5 depicts heat moving from the pot to:",
+      "image": "/diagramphoto.jpg",
+      "options": ["The fire source", "The water glass", "The surrounding air", "The ice directly"],
+      "correct": "The water glass"
+    },
+    {
+      "type": "Diagram Labeling",
+      "question": "What type of heat transfer is occurring between the ice and the water glass (label area 2)?",
+      "image": "/diagramphoto.jpg",
+      "options": ["Conduction through contact", "Convection currents", "Radiation across space", "Advection by wind"],
+      "correct": "Conduction through contact"
+    },
+    {
+      "type": "Diagram Labeling",
+      "question": "The overall system demonstrates heat flow from high to low:",
+      "image": "/diagramphoto.jpg",
+      "options": ["Temperature regions", "Pressure areas", "Volume states", "Density gradients"],
+      "correct": "Temperature regions"
+    },
+    {
+      "type": "Diagram Labeling",
+      "question": "Label 6 identifies the:",
+      "image": "/diagramphoto.jpg",
+      "options": ["Heat sink", "Energy input source", "Phase change point", "Equilibrium zone"],
+      "correct": "Energy input source"
+    },
+    {
+      "type": "Diagram Labeling",
+      "question": "If the fire is removed, which arrow's process would stop first?",
+      "image": "/diagramphoto.jpg",
+      "options": ["1", "2", "4", "5"],
+      "correct": "5"
+    }
+  ],
+  "problemSolving": [
+    {
+      "type": "Situational",
+      "question": "You add sugar to iced tea and stir—it disappears completely, making a clear liquid; but sand stirred into water settles at the bottom. Why does sugar mix into water but sand does not, and what kinds of mixtures are these?",
+      "options": ["Sugar forms a homogeneous solution; sand forms a heterogeneous suspension", "Sugar is lighter so it floats; sand is heavier so it sinks", "Both form heterogeneous mixtures but at different rates", "Sugar evaporates; sand undergoes a chemical change"],
+      "correct": "Sugar forms a homogeneous solution; sand forms a heterogeneous suspension"
+    },
+    {
+      "type": "Situational",
+      "question": "A sealed bottle half-full of clear liquid shrinks when you warm it gently (no bubbles form) but grows back when cooled. What change of state of matter in water vapor causes the liquid level to change?",
+      "options": ["Freezing causes the liquid to contract when warmed", "Evaporation expands headspace when warmed; condensation restores it when cooled", "Sublimation turns liquid directly to gas permanently", "Melting of dissolved solids raises the liquid level"],
+      "correct": "Evaporation expands headspace when warmed; condensation restores it when cooled"
+    },
+    {
+      "type": "Situational",
+      "question": "You wake up to frost covering the inside of your car windows, even though no water was left inside. What change of state turns water vapor from the air into frost?",
+      "options": ["Condensation — vapor turns to liquid then freezes", "Sublimation — solid ice skips the liquid stage", "Deposition — water vapor turns directly into solid frost", "Freezing — liquid water on the glass turns to ice"],
+      "correct": "Deposition — water vapor turns directly into solid frost"
+    },
+    {
+      "type": "Situational",
+      "question": "Heating sugar melts it into clear liquid, then it turns brown with a new smell. Is melting sugar a change in state of matter or a chemical change, and why does it brown?",
+      "options": ["Both are physical; color change is just visual", "Both are chemical; heat always causes reactions", "Melting is physical; browning is chemical — new substances form", "Melting is chemical; browning is physical — only appearance changes"],
+      "correct": "Melting is physical; browning is chemical — new substances form"
+    },
+    {
+      "type": "Situational",
+      "question": "An air balloon grows a little under heat, but one with a mystery gas grows huge and pops. How does heat affect the matter (particles) inside each balloon differently?",
+      "options": ["Both gases expand equally; mystery balloon was just weaker", "Mystery gas has heavier particles that push outward more", "Mystery gas has lighter or more particles; expands more per Charles's Law", "Air absorbs more heat so it should expand more"],
+      "correct": "Mystery gas has lighter or more particles; expands more per Charles's Law"
+    },
+    {
+      "type": "Situational",
+      "question": "A metal block sinks in water but floats in mercury. How does the density (mass per volume) of matter explain if it sinks or floats?",
+      "options": ["Metal is less dense than both water and mercury", "Metal is denser than both water and mercury", "Metal is denser than water but less dense than mercury", "Metal density equals water so it hovers"],
+      "correct": "Metal is denser than water but less dense than mercury"
+    },
+    {
+      "type": "Situational",
+      "question": "Electricity makes tiny crystals in a window scatter light to turn cloudy, then clear again when off—no new stuff forms. Is this a physical change in matter or chemical?",
+      "options": ["Chemical — electricity always triggers chemical reactions", "Physical — crystals rearrange but no new substance forms", "Chemical — light scattering means new matter formed", "Physical — but only because it involves a solid"],
+      "correct": "Physical — crystals rearrange but no new substance forms"
+    },
+    {
+      "type": "Situational",
+      "question": "You mix iron bits, sand, and salt. Using a magnet and water, how do you separate them based on properties of matter like magnetism and dissolving?",
+      "options": ["Dissolve all in water then filter; use magnet last", "Use magnet to remove iron; dissolve salt in water; filter out sand", "Filter sand first; use magnet for iron and salt together", "Boil the mixture; iron evaporates first then salt then sand"],
+      "correct": "Use magnet to remove iron; dissolve salt in water; filter out sand"
+    },
+    {
+      "type": "Situational",
+      "question": "Material X turns to gas and black stuff when heated; Material Y melts to liquid, boils to gas, then back to solid. Which shows reversible changes of state, and which is chemical?",
+      "options": ["X is reversible physical; Y is irreversible chemical", "Both X and Y show reversible physical changes", "Y is reversible physical; X is irreversible chemical decomposition", "Both X and Y undergo chemical changes when heated"],
+      "correct": "Y is reversible physical; X is irreversible chemical decomposition"
+    },
+    {
+      "type": "Situational",
+      "question": "Shaking a bottle of water and air warms it up and makes water mist appear then vanish. What energy and change of state of water causes this?",
+      "options": ["Shaking cools the water causing it to freeze into mist", "Shaking adds kinetic energy; water evaporates forming mist then condenses back", "Air pressure from shaking causes sublimation of water", "Shaking chemically separates water into hydrogen and oxygen"],
+      "correct": "Shaking adds kinetic energy; water evaporates forming mist then condenses back"
+    }
+  ]
+}
